@@ -1,2 +1,29 @@
-# CT-SDK
-Carbontrace Wallet SDK A plug-and-play JavaScript SDK that lets businesses reward verified carbon action with on-chain incentives. Connect user wallets, distribute ALGO / CTCoins, and display real-time balances — all backed by an authoritative carbon ledger and blockchain verification.
+# Carbontrace Wallet SDK
+
+Plug-and-play wallet integration for carbon incentives.
+Reward users with ALGO / CTCoins for verified carbon action.
+
+---
+
+## 🚀 Features
+- WalletConnect (Pera Wallet)
+- Automatic reward distribution
+- Live balance (ALGO + CTCoins)
+- Backend-verified state
+- JWT expiry protection
+- Zero blockchain knowledge required
+
+---
+
+## 🧠 Core Principles
+- Wallet = Identity
+- Backend = Source of Truth
+- SDK = UI + Signing only
+
+---
+
+## 📦 Installation
+
+### 1️⃣ Add container
+```html
+<div id="carbontrace-wallet"></div>
