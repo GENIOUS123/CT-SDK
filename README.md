@@ -98,7 +98,7 @@ Tokens:
 ## Include SDK Bundle
 
 ```html
-<script src="/js/carbon-sdk-bundle.js"></script>
+<script src="https://admin.carbontrace.in/js/carbon-sdk-bundle.js"></script>
 ```
 
 ---
